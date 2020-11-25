@@ -1,0 +1,9 @@
+Bruel and Kjaer Dual DSP Shaker Control System
+
+Swept Sine Test Run Log	13:32:42, Wednesday, November 25, 2020
+
+ENTRY TIME	FREQ(Hz)	CTL/DEMAND(Peak)	SOURCE	DESCRIPTION
+ 	 	 	 
+00:00:00  13:32:42, Nov 25, 20	  0.00	    	Controller	USB disconnected
+00:01:58  13:34:40, Nov 25, 20	  0.00	    	User Command	Reset the Hardware
+00:00:00  13:35:35, Nov 25, 20	  0.00	    	User Command	Reset the Hardware
